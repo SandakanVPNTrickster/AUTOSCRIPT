@@ -9,12 +9,24 @@
 - SSH, SSH-WS, Open VPN and V2ray.
 - Credit to Horas/Md
 
-# INSTALLATION
+# INSTALLATION AUTOSCRIPT
 
 ```html
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/jinGGo007/SCRIPT/main/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
  - You must have domain before install this script 
+ - Contact https://t.me/jinggo007 for register IP
+
+# INSTALLATION OHP ADDON
+
+```html
+wget https://raw.githubusercontent.com/jinGGo007/SCRIPT/main/ohpserver.sh && chmod +x ohpserver.sh && ./ohpserver.sh
+  ```
+   - Contact https://t.me/jinggo007 for register IP
+   - Proxy Port Use 8080
+   - Ovpn Port 1194---> 8089 Ohp Port
+   - Dropbear Port 143--->8090 Ohp Port
+  
   
 # VPN SERVICES AND PORTS
 

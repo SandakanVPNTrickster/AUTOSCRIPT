@@ -5,7 +5,7 @@
 
 
 # NOTE
-- Free Script Install :
+- Free Script Install Lite Version 
 - SSH, SSH-WS, Open VPN, V2ray Trojan and Wireguard
 - Credit to Horas/Md
 
@@ -30,9 +30,9 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh &&
   
 # VPN SERVICES AND PORTS
 
-- Dropbear: 109,143 
-- Stunnel4: 443, 777 
-- Squid: 3128, 8080
+- DROPBEAR: 109,143 
+- STUNNELl4: 443, 777 
+- SQUID PROXY: 3128, 8080
 - WS-CDN: 2082, 2081
 - UDPGW: 7100-7300
 - OVPN TCP: 1194 

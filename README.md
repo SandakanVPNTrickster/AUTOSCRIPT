@@ -6,7 +6,7 @@
 
 # NOTE
 - Free Script Install :
-- SSH, SSH-WS, Open VPN and V2ray.
+- SSH, SSH-WS, Open VPN, V2ray Trojan and Wireguard
 - Credit to Horas/Md
 
 # INSTALLATION AUTOSCRIPT
@@ -39,6 +39,10 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh &&
 - OVPN UDP: 2200
 - V2RAY-VMESS TLS: 8433
 - V2RAY-VMESS NON TLS: 80
+- V2RAY-VLESS TLS : 2083
+- V2RAY-VLESS NON TLS : 8880
+- TROJAN : 2087
+- WIREGUARD : 7070
 
 ------------------------------
 - Contact:

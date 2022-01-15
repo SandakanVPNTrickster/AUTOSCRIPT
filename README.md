@@ -26,6 +26,13 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh &&
    - Proxy Port Use 8080
    - Ovpn Port 1194---> 8089 Ohp Port
    - Dropbear Port 143--->8090 Ohp Port
+
+# ROOT GRANTED(CHANGE TO ROOT)
+
+```html
+ sudo su
+wget https://raw.githubusercontent.com/jinGGo007/VPS/main/grant-root && chmod +x grant-root && ./grant-root /setup.sh && chmod +x setup.sh && ./setup.sh
+  ```
   
   
 # VPN SERVICES AND PORTS

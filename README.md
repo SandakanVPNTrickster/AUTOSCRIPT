@@ -9,6 +9,14 @@
 - SSH, SSH-WS, Open VPN, V2ray Trojan and Wireguard
 - Credit to Horas/Md
 
+# ROOT GRANTED(CHANGE TO ROOT)
+
+```html
+sudo su
+wget https://raw.githubusercontent.com/jinGGo007/VPS/main/grant-root && chmod +x grant-root && ./grant-root
+  ```
+  
+
 # INSTALLATION AUTOSCRIPT
 
 ```html
@@ -27,13 +35,6 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh &&
    - Ovpn Port 1194---> 8089 Ohp Port
    - Dropbear Port 143--->8090 Ohp Port
 
-# ROOT GRANTED(CHANGE TO ROOT)
-
-```html
-sudo su
-wget https://raw.githubusercontent.com/jinGGo007/VPS/main/grant-root && chmod +x grant-root && ./grant-root
-  ```
-  
   
 # VPN SERVICES AND PORTS
 

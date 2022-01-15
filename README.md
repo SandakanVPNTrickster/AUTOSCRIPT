@@ -30,7 +30,7 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh &&
 # ROOT GRANTED(CHANGE TO ROOT)
 
 ```html
- sudo su
+sudo su
 wget https://raw.githubusercontent.com/jinGGo007/VPS/main/grant-root && chmod +x grant-root && ./grant-root /setup.sh && chmod +x setup.sh && ./setup.sh
   ```
   

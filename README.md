@@ -29,7 +29,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
   
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/VPS/main/menu.jpg">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/menu.jpg">
 
 # INSTALLATION OHP ADDON
 

@@ -32,19 +32,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <p align="center">
 <img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/screenshot.jpg">
 
-  
-# INSTALLATION OHP ADDON
-
-```html
-wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh && chmod +x ohpserver.sh && ./ohpserver.sh
-  ```
-   - Contact https://t.me/jinggo007 for register IP
-   - Proxy Port Use 8080
-   - Ovpn Port 1194---> 8089 Ohp Port
-   - Dropbear Port 143--->8090 Ohp Port
-
-  
-# VPN SERVICES AND PORTS
+  # VPN SERVICES AND PORTS
 
 - DROPBEAR: 109,143 
 - STUNNELl4: 443, 777 
@@ -62,6 +50,19 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh &&
 - SSH OHP : 8090
 - OVPN OHP : 8089
 
-------------------------------
-- Contact:
+  
+# INSTALLATION OHP ADDON
+
+```html
+wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh && chmod +x ohpserver.sh && ./ohpserver.sh
+  ```
+   - Contact https://t.me/jinggo007 for register IP
+   - Proxy Port Use 8080
+   - Ovpn Port 1194---> 8089 Ohp Port
+   - Dropbear Port 143--->8090 Ohp Port
+
+  
+
+
+#Contact:
 - Telegram : https://t.me/jinggo007

@@ -26,7 +26,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
   ```
  - You must have domain before install this script 
  - Contact https://t.me/jinggo007 for register IP
- - 
+  
   
 <h3 align="center">Screenshots</h3>
 <p align="center">
@@ -64,5 +64,4 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh &&
   
 
 
-#Contact:
-- Telegram : https://t.me/jinggo007
+

@@ -26,6 +26,10 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
   ```
  - You must have domain before install this script 
  - Contact https://t.me/jinggo007 for register IP
+  
+<h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/1.png">
 
 # INSTALLATION OHP ADDON
 

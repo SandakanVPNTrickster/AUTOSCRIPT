@@ -51,6 +51,8 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh &&
 - V2RAY-VLESS NON TLS : 8880
 - TROJAN : 2087
 - WIREGUARD : 7070
+- SSH OHP : 8090
+- OVPN OHP : 8089
 
 ------------------------------
 - Contact:

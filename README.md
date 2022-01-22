@@ -51,7 +51,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 - OVPN OHP : 8089
 
   
-# INSTALLATION OHP ADDON
+# INSTALLATION OHP ADDON ONLY
 
 ```html
 apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh && chmod +x ohpserver.sh && ./ohpserver.sh

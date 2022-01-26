@@ -29,9 +29,6 @@ else
     exit 1
 fi
 
-#Disable ipv6
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1
-
 # Subdomain Settings
 echo -e "============================================="
 echo -e "${green}      Input Domain${NC} "
@@ -60,6 +57,9 @@ else
     exit 1
 fi
 
+#Disable ipv6
+sysctl -w net.ipv6.conf.all.disable_ipv6=1
+sysctl -w net.ipv6.conf.default.disable_ipv6=1
 
 #install ssh ovpn
 echo -e "============================================="

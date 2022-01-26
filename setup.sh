@@ -12,7 +12,7 @@ green='\e[0;32m'
 NC='\e[0m'
 
 apt update
-apt install -y bzip2 gzip coreutils screen curl
+apt install -y bzip2 gzip -y coreutils screen curl
 
 
 # Script Access 

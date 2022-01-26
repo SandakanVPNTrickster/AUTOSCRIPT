@@ -17,7 +17,6 @@ echo -e "============================================="
 echo -e " ${green} Update & Upgrade Process${NC}"
 echo -e "============================================="
 apt -y update
-apt -y upgrade 
 apt install -y bzip2 gzip coreutils screen curl
 sleep2
 clear

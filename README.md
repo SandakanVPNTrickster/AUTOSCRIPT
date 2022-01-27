@@ -51,32 +51,24 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/V3/setup.sh && 
 
   # VPN SERVICES AND PORTS
 
-- DROPBEAR: 109,143 
-- STUNNELl4: 443, 777 
-- SQUID PROXY: 3128, 8080
-- WS-CDN: 2082, 2081
-- UDPGW: 7100-7300
-- OVPN TCP: 1194 
-- OVPN UDP: 2200
-- V2RAY-VMESS TLS: 8433
-- V2RAY-VMESS NON TLS: 80
-- V2RAY-VLESS TLS : 2083
+- DROPBEAR            : 109,143 
+- STUNNELl4           : 443, 777 
+- SQUID PROXY         : 3128, 8080
+- WS-CDN              : 2082, 2081
+- UDPGW               : 7100-7300
+- OVPN TCP            : 1194 
+- OVPN UDP            : 2200
+- V2RAY-VMESS TLS     : 8433
+- V2RAY-VMESS NON TLS : 80
+- V2RAY-VLESS TLS     : 2083
 - V2RAY-VLESS NON TLS : 8880
-- TROJAN : 2087
-- WIREGUARD : 7070
-- SSH OHP : 8090
-- OVPN OHP : 8089
+- TROJAN              : 2087
+- WIREGUARD           : 7070
+- SSH OHP             : 8090 PROXY USED 3128
+- OVPN OHP            : 8089 PROXY USED 3128
 
   
-# INSTALLATION OHP ADDON ONLY
 
-```html
-apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ohpserver.sh && chmod +x ohpserver.sh && ./ohpserver.sh
-  ```
-   - Contact https://t.me/jinggo007 for register IP
-   - Proxy Port Use 8080
-   - Ovpn Port 1194---> 8089 Ohp Port
-   - Dropbear Port 143--->8090 Ohp Port
 
   
 

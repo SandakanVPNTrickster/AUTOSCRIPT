@@ -42,7 +42,8 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/V3/setup.sh && 
   
  <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/screenshot.jpg">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/SS.jpg">
+  
 
   # VPN SERVICES AND PORTS
 

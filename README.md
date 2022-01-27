@@ -22,24 +22,25 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root &&
 
 # INSTALLATION AUTOSCRIPT V1
 
+ - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V1 VERSION
+ - COPY AND PASTE COMMAND BELOW
+
 ```html
 wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/V2/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
- - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT 
-
-  
-  
 <h3 align="center">Screenshots</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/screenshot.jpg">
   
 # INSTALLATION AUTOSCRIPT V2
 
+- YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V2 VERSION
+- COPY AND PASTE COMMAND BELOW
+  
 ```html
 wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/V3/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
- - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT  
-  
+ 
  <h3 align="center">Screenshots</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/SS.jpg">

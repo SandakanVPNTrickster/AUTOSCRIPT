@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root &&
 ```html
 wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/V2/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
- - You must have domain before install this script 
+ - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT 
 
   
   
@@ -38,7 +38,7 @@ wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/V2/setup.sh && 
 ```html
 wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/V3/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
- - You must have domain before install this script 
+ - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT  
   
  <h3 align="center">Screenshots</h3>
 <p align="center">

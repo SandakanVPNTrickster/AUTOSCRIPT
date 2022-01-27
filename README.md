@@ -8,7 +8,8 @@
 
 # NOTE
 - Free Script Install Lite Version 
-- SSH, SSH-WS, Open VPN, V2ray Trojan and Wireguard
+- V1 : SSHOVPN/V2RAY VMESS/VLESS/TROJAN GFW/WIREGUARD/SHADOWSOCKS OBFS/SHADOWSOCK R
+- V2 : SSHOVPN/V2RAY VMESS/VLESS/TROJAN GFW
 - Credit to Horas/Md
 
 # ROOT GRANTED(CHANGE TO ROOT)
@@ -19,16 +20,27 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root &&
   ```
   
 
-# INSTALLATION AUTOSCRIPT
+# INSTALLATION AUTOSCRIPT V1
 
 ```html
-wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/V2/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
  - You must have domain before install this script 
- - Contact https://t.me/jinggo007 for register IP
+
   
   
 <h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/screenshot.jpg">
+  
+# INSTALLATION AUTOSCRIPT V2
+
+```html
+wget https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/V3/setup.sh && chmod +x setup.sh && ./setup.sh
+  ```
+ - You must have domain before install this script 
+  
+ <h3 align="center">Screenshots</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/screenshot.jpg">
 

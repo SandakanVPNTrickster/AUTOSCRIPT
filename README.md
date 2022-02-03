@@ -28,6 +28,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root &&
 
  - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V2 VERSION
  - COPY AND PASTE COMMAND BELOW
+ - SCRIPT LISENCE: jinggo007
 
 ```html
 wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V2/setup.sh && chmod +x setup.sh && ./setup.sh
@@ -40,6 +41,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V2/setup.sh && chm
 
 - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V3 VERSION
 - COPY AND PASTE COMMAND BELOW
+- SCRIPT LISENCE: jinggo007
   
 ```html
 wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V3/setup.sh && chmod +x setup.sh && ./setup.sh

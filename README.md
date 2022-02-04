@@ -35,7 +35,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V2/setup.sh && chm
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/pic.v2.jpg">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ss.v2.jpg">
   
 # INSTALLATION AUTOSCRIPT V3
 
@@ -49,7 +49,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V3/setup.sh && chm
  
  <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/pic.v3.jpg">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ss.v3.jpg">
  
 # INSTALLATION AUTOSCRIPT V4
 
@@ -63,7 +63,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V4/setup.sh && chm
  
  <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/pic.v4.jpg">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/ss.v4.jpg">
   
 
   # VPN SERVICES AND PORTS

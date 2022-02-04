@@ -50,6 +50,20 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V3/setup.sh && chm
  <h3 align="center">Screenshots</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/SS.jpg">
+ 
+# INSTALLATION AUTOSCRIPT V4
+
+- YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V3 VERSION
+- COPY AND PASTE COMMAND BELOW
+- SCRIPT LISENCE: jinggo007
+  
+```html
+wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V4/setup.sh && chmod +x setup.sh && ./setup.sh
+  ```
+ 
+ <h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/sss.jpg">
   
 
   # VPN SERVICES AND PORTS

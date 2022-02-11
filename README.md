@@ -29,7 +29,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root &&
 
  - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V2 VERSION
  - COPY AND PASTE COMMAND BELOW
- - SCRIPT LISENCE: jinggo007
+ - VERSION 1 ONLY NEED IP ACCESS..PM TELEGRAM t.me/jinggo007
 
 ```html
 wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V1/setup.sh && chmod +x setup.sh && ./setup.sh

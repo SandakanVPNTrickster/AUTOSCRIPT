@@ -92,6 +92,21 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V5/setup.sh && chm
  <h3 align="center">Screenshots</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v5.jpg">
+
+ 
+ # INSTALLATION AUTOSCRIPT V6
+
+- YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V3 VERSION
+- COPY AND PASTE COMMAND BELOW
+- SCRIPT LISENCE: jinggo007
+  
+```html
+wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V6/setup.sh && chmod +x setup.sh && ./setup.sh
+  ```
+ 
+ <h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v6.jpg">
   
 
   # VPN SERVICES AND PORTS

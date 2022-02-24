@@ -36,6 +36,10 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root &&
 sudo su
 wget wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ENC/setup-enc.sh && chmod +x setup-enc.sh && ./setup-enc.sh && chmod +x grant-root && ./grant-root
   ```
+<h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/enc.jpg">
+ 
 
 # INSTALLATION AUTOSCRIPT V1
 

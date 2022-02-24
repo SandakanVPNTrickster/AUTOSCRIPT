@@ -26,6 +26,17 @@
 sudo su
 wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root && chmod +x grant-root && ./grant-root
   ```
+
+# AUTOSCRIPT FOR ENCRYPT SHELL SCRIPT
+
+ - COPY AND PASTE COMMAND BELOW
+ - AFTER INSTALL>>LOGIN YOUR VPS AND TYPE ENC
+
+```html
+sudo su
+wget wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ENC/setup-enc.sh && chmod +x setup-enc.sh && ./setup-enc.sh && chmod +x grant-root && ./grant-root
+  ```
+
 # INSTALLATION AUTOSCRIPT V1
 
  - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V1 VERSION

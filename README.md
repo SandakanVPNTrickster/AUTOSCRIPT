@@ -33,8 +33,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root &&
  - AFTER INSTALL>>LOGIN YOUR VPS AND TYPE ENC
 
 ```html
-sudo su
-wget wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ENC/setup-enc.sh && chmod +x setup-enc.sh && ./setup-enc.sh && chmod +x grant-root && ./grant-root
+wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ENC/setup-enc.sh && chmod +x setup-enc.sh && ./setup-enc.sh && chmod +x grant-root && ./grant-root
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">

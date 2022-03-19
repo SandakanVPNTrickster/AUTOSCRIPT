@@ -122,7 +122,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V6/setup.sh && chm
  
  <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v6.1.jpg">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v6.jpg">
   
 
   # VPN SERVICES AND PORTS

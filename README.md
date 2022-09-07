@@ -32,7 +32,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root &&
  - FULL VERSION NEED IP ACCESS..PM TELEGRAM t.me/jinggo007
 
 ```html
-wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V1/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/jinGGo007/MULTIPORT/main/FULL/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
@@ -45,7 +45,7 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V1/setup.sh && chm
  - SCRIPT LISENCE: jinggo007
 
 ```html
-wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V2/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/jinGGo007/MULTIPORT/main/LITE/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">

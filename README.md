@@ -75,7 +75,7 @@ wget https://raw.githubusercontent.com/jinGGo007/MULTIPORT/main/LITE/setup.sh &&
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v2.jpg">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/lite.jpg">
   
 # VPN SERVICES AND PORTS LITE VERSION
 

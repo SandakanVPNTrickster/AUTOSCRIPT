@@ -36,7 +36,7 @@ wget https://raw.githubusercontent.com/jinGGo007/MULTIPORT/main/FULL/setup.sh &&
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v1.jpg"> 
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/full.jpg"> 
  
  # VPN SERVICES AND PORTS FULL VERSION
 

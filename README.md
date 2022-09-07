@@ -37,24 +37,8 @@ wget https://raw.githubusercontent.com/jinGGo007/MULTIPORT/main/FULL/setup.sh &&
 <h3 align="center">Screenshots</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v1.jpg"> 
-
-# INSTALLATION AUTOSCRIPT LITE
-
- - YOU MUST HAVE DOMAIN POINT TO IP BEFORE INSTALL THIS LITE VERSION
- - COPY AND PASTE COMMAND BELOW
- - SCRIPT LISENCE: jinggo007
-
-```html
-wget https://raw.githubusercontent.com/jinGGo007/MULTIPORT/main/LITE/setup.sh && chmod +x setup.sh && ./setup.sh
-  ```
-<h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v2.jpg">
-  
-
-  
-
-  # VPN SERVICES AND PORTS
+ 
+ # VPN SERVICES AND PORTS FULL VERSION
 
 - DROPBEAR              : 109,143 
 - STUNNELl4             : 444, 777 
@@ -76,6 +60,43 @@ wget https://raw.githubusercontent.com/jinGGo007/MULTIPORT/main/LITE/setup.sh &&
 - XRAY-TROJAN TCP       : 443
 - XRAY-VMESS WS NON TLS : 80
 - XRAY-VLESS WS NON TLS : 8088
+ 
+ 
+ 
+
+# INSTALLATION AUTOSCRIPT LITE
+
+ - YOU MUST HAVE DOMAIN POINT TO IP BEFORE INSTALL THIS LITE VERSION
+ - COPY AND PASTE COMMAND BELOW
+ - SCRIPT LISENCE: jinggo007
+
+```html
+wget https://raw.githubusercontent.com/jinGGo007/MULTIPORT/main/LITE/setup.sh && chmod +x setup.sh && ./setup.sh
+  ```
+<h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v2.jpg">
+  
+# VPN SERVICES AND PORTS LITE VERSION
+
+- DROPBEAR              : 109,143 
+- STUNNELl4             : 444, 777 
+- NGINX                 : 81
+- SQUID PROXY           : 3128, 8080
+- WS-CDN                : 2082, 2081
+- UDPGW                 : 7100-7300
+- OVPN TCP              : 1194 
+- OVPN UDP              : 2200
+- SSH OHP               : 8010 PROXY USED 3128
+- OVPN OHP              : 8000 PROXY USED 3128
+- XRAY-VMESS WS TLS     : 443
+- XRAY-VLESS WS TLS     : 443
+- XRAY-VLESS XTLS       : 443
+- XRAY-TROJAN TCP       : 443
+- XRAY-VMESS WS NON TLS : 80
+- XRAY-VLESS WS NON TLS : 8088
+
+  
 
 
 

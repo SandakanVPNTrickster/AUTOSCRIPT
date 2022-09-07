@@ -7,14 +7,10 @@
 
 
 # NOTE
-- FREE AUTOSCRIPT INSTALL LITE VERSION
-- MUST HAVE YOUR OWN DOMAIN BEFORE INSTALL THIS SCRIPT
-- V1 : SSHOVPN/V2RAY VMESS/VLESS/TROJAN GFW/WIREGUARD/SHADOWSOCKS OBFS/SHADOWSOCK R/OHP/XRAY VMESS/VLESS/XTLS/GRPC/TROJAN GO
-- V2 : SSHOVPN/V2RAY VMESS/VLESS/TROJAN GFW/WIREGUARD/SHADOWSOCKS OBFS/SHADOWSOCK R/OHP
-- V3 : SSHOVPN/V2RAY VMESS/VLESS/TROJAN GFW/OHP
-- V4 : SSHOVPN/V2RAY VMESS/VLESS/TROJAN GFW/OHP(DIFFERENT MENU)
-- V5 : SSHOVPN/V2RAY VMESS/VLESS/TROJAN GFW/OHP/XRAY XTLS/XRAY GRPC
-- V6 : SSHOVPN/XRAY VMESS/VLESS/XTLS/GRPC/TR GO
+- FREE ONLY FOR AUTOSCRIPT LITE VERSION
+- MUST HAVE YOUR OWN DOMAIN POINT TO IP BEFORE INSTALL THIS SCRIPT
+- FULL : SSHOVPN/WIREGUARD/SHADOWSOCKS OBFS/SHADOWSOCK R/OHP/XRAY VMESS/XRAY VLESS/XRAY VLESS XTLS/XRAY TROJAN 
+
 - CREDIT TO HORAS/MD
 
 # ROOT GRANTED(CHANGE TO ROOT)
@@ -27,25 +23,13 @@ sudo su
 wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ROOT/grant-root && chmod +x grant-root && ./grant-root
   ```
 
-# AUTOSCRIPT FOR ENCRYPT SHELL SCRIPT
 
- - BEFORE INSTALL..PM TELEGRAM t.me/jinggo007 FOR REGISTER IP
+
+# INSTALLATION AUTOSCRIPT FULL
+
+ - YOU MUST HAVE DOMAIN POINT TO IP BEFORE INSTALL THIS FULL VERSION
  - COPY AND PASTE COMMAND BELOW
- - AFTER INSTALL>>LOGIN YOUR VPS AND TYPE ENC
-
-```html
-wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/ENC/setup-enc.sh && chmod +x setup-enc.sh && ./setup-enc.sh 
-  ```
-<h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/enc.jpg">
- 
-
-# INSTALLATION AUTOSCRIPT V1
-
- - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V1 VERSION
- - COPY AND PASTE COMMAND BELOW
- - VERSION 1 ONLY NEED IP ACCESS..PM TELEGRAM t.me/jinggo007
+ - FULL VERSION NEED IP ACCESS..PM TELEGRAM t.me/jinggo007
 
 ```html
 wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V1/setup.sh && chmod +x setup.sh && ./setup.sh
@@ -54,9 +38,9 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V1/setup.sh && chm
 <p align="center">
 <img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v1.jpg"> 
 
-# INSTALLATION AUTOSCRIPT V2
+# INSTALLATION AUTOSCRIPT LITE
 
- - YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V2 VERSION
+ - YOU MUST HAVE DOMAIN POINT TO IP BEFORE INSTALL THIS LITE VERSION
  - COPY AND PASTE COMMAND BELOW
  - SCRIPT LISENCE: jinggo007
 
@@ -67,81 +51,37 @@ wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V2/setup.sh && chm
 <p align="center">
 <img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v2.jpg">
   
-# INSTALLATION AUTOSCRIPT V3
 
-- YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V3 VERSION
-- COPY AND PASTE COMMAND BELOW
-- SCRIPT LISENCE: jinggo007
-  
-```html
-wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V3/setup.sh && chmod +x setup.sh && ./setup.sh
-  ```
- 
- <h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v3.jpg">
- 
-# INSTALLATION AUTOSCRIPT V4
-
-- YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V4 VERSION
-- COPY AND PASTE COMMAND BELOW
-- SCRIPT LISENCE: jinggo007
-  
-```html
-wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V4/setup.sh && chmod +x setup.sh && ./setup.sh
-  ```
- 
- <h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v4.jpg">
- 
- # INSTALLATION AUTOSCRIPT V5
-
-- YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V5 VERSION
-- COPY AND PASTE COMMAND BELOW
-- SCRIPT LISENCE: jinggo007
-  
-```html
-wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V5/setup.sh && chmod +x setup.sh && ./setup.sh
-  ```
- 
- <h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v5.jpg">
-
- 
- # INSTALLATION AUTOSCRIPT V6
-
-- YOU MUST HAVE DOMAIN BEFORE INSTALL THIS SCRIPT FOR V6 VERSION
-- COPY AND PASTE COMMAND BELOW
-- SCRIPT LISENCE: jinggo007
-  
-```html
-wget https://raw.githubusercontent.com/jinGGo007/PRIVATE/main/V6/setup.sh && chmod +x setup.sh && ./setup.sh
-  ```
- 
- <h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/jinGGo007/AUTOSCRIPT/main/v6.jpg">
   
 
   # VPN SERVICES AND PORTS
 
-- DROPBEAR            : 109,143 
-- STUNNELl4           : 444, 777 
-- SQUID PROXY         : 3128, 8080
-- WS-CDN              : 2082, 2081
-- UDPGW               : 7100-7300
-- OVPN TCP            : 1194 
-- OVPN UDP            : 2200
-- V2RAY-VMESS TLS     : 5443
-- V2RAY-VMESS NON TLS : 6443
-- V2RAY-VLESS TLS     : 7443
-- V2RAY-VLESS NON TLS : 8443
-- TROJAN              : 9443
-- WIREGUARD           : 7070
-- SSH OHP             : 8010 PROXY USED 3128
-- OVPN OHP            : 8000 PROXY USED 3128
+- DROPBEAR              : 109,143 
+- STUNNELl4             : 444, 777 
+- NGINX                 : 81
+- SQUID PROXY           : 3128, 8080
+- WS-CDN                : 2082, 2081
+- UDPGW                 : 7100-7300
+- OVPN TCP              : 1194 
+- OVPN UDP              : 2200
+- SSH OHP               : 8010 PROXY USED 3128
+- OVPN OHP              : 8000 PROXY USED 3128
+- SS-OBFS TLS           : 2443-2543"  
+- SS-OBFS HTTP          : 3443-3543"
+- Shadowsocks-R         : 1443-1543
+- WIREGUARD             : 7070
+- XRAY-VMESS WS TLS     : 443
+- XRAY-VLESS WS TLS     : 443
+- XRAY-VLESS XTLS       : 443
+- XRAY-TROJAN TCP       : 443
+- XRAY-VMESS WS NON TLS : 80
+- XRAY-VLESS WS NON TLS : 8088
+
+
+
+
+
+
 
   
 
